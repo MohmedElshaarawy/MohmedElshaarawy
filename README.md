@@ -20,5 +20,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohmedelshaarawy&theme=dark" alt="mohmedelshaarawy" /></p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohmedelshaarawy" alt="mohmedelshaarawy" /></a> </p>/)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohmedelshaarawy" alt="mohmedelshaarawy" /></a> </p>
 
