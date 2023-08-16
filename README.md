@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elshaarawy</h1>
-<h3 align="center">I'm Frontend Developer from EGYPT</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2458F7&width=435&lines=I'm+Frontend+Developer+from+EGYPT)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohmedelshaarawy&label=Profile%20views&color=0e75b6&style=flat" alt="mohmedelshaarawy" /> </p>
 
