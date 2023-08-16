@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elshaarawy</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=I'm+Frontend+Developer+from+EGYPT" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohmedelshaarawy&label=Profile%20views&color=0e21b4&style=flat-square" alt="mohmedelshaarawy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mohmedelshaar10" target="blank"><img src="https://img.shields.io/twitter/follow/mohmedelshaar10?logo=twitter&style=for-the-badge" alt="mohmedelshaar10" /></a> </p>
