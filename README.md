@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohmedelshaarawy&label=Profile%20views&color=0e21b4&style=flat-square" alt="mohmedelshaarawy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohmedelshaarawy" alt="mohmedelshaarawy" /></a> </p>
 
 - ✅ [image-Edito](https://mohmedelshaarawy.github.io/image-Edito/)
 
